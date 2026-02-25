@@ -1,4 +1,4 @@
-# Taichi Nakano / 中野 泰
+# Taichi Nakano / 仲野 太智
 
 ![Avatar](image/tai.jpg)
 
