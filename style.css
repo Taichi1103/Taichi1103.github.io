@@ -1,0 +1,6 @@
+/* デザインの設定 */
+body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 40px; }
+.container { display: flex; gap: 40px; }
+.sidebar { flex: 1; text-align: center; }
+.main-content { flex: 2; }
+img.avatar { width: 150px; border-radius: 50%; }
