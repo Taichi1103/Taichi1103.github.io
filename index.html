@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <title>Taichi Nakano Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <meta charset="UTF-8">
+  <title>Taichi Nakano | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 </head>
 <body>
-    <div class="container">
-        <div class="sidebar">
-            <img src="itami.jpeg" class="avatar">
-            <h1 id="name"></h1>
-            <p id="title"></p>
-        </div>
-        <div class="main-content" id="main-content">
-            </div>
-    </div>
-    <script src="contents.js"></script>
+  <div id="app">読み込み中...</div>
+  <script>
+    window.$docsify = {
+      name: 'Taichi Nakano',
+      repo: 'https://github.com/Taichi1103/Taichi1103.github.io',
+      loadSidebar: true, // サイドバーを有効にする
+      subMaxLevel: 2,    // ページ内の見出しもサイドバーに出す
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
 </body>
 </html>
