@@ -1,2 +1,10 @@
 https://gemini.google.com/app/5ce8cb29dadc065a
 geminiともに作成中
+
+サーバの立て方
+```
+
+```
+
+ToDO
+- English ページの作成
