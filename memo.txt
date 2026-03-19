@@ -3,7 +3,7 @@ geminiともに作成中
 
 サーバの立て方
 ```
-
+vscodeにて，"index.html"を右クリック→"Open with Live Server"
 ```
 
 ToDO
