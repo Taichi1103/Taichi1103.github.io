@@ -1,6 +1,6 @@
 # Taichi Nakano / 仲野 太智
 
-<img src="image/2024tai.jpg" alt="Taichi Nakano" width="180">
+<img src="image/2024tai.JPG" alt="Taichi Nakano" width="180">
 
 ## 自己紹介
 
