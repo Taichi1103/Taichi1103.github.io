@@ -1,12 +1,22 @@
 const profile = {
     name: "仲野 太智 / Taichi Nakano",
-    title: "日本学術振興会 特別研究員 (DC1)",
+    title: "",
     research: [
-        "ハイブリッド直流遮断技術の研究",
+        "次世代の小型直流遮断技術の研究",
     ],
     awards: [
-        { date: "2025/03", name: "工学部長賞" }
-    ]
+        { date: "2025/03", name: "工学部長賞 研究最優秀" },
+        { date: "2025/03", name: "工学部電気電子工学科 優秀論文賞" },
+        { date: "2024/11", name: "IEEE IES Students and Young Professions Award" }
+    ],
+    Domestc_conferences : [
+        { date: "2025/12", name: "工学部長賞 研究最優秀" },
+        { date: "2025/9", name: "工学部電気電子工学科 優秀論文賞" }
+    ], 
+    International_conferences : [
+        { date: "2025/12", name: "工学部長賞 研究最優秀" },
+        { date: "2025/9", name: "工学部電気電子工学科 優秀論文賞" }
+    ]   
 };
 
 // 画面に反映させる処理

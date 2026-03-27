@@ -1,2 +1,10 @@
 https://gemini.google.com/app/5ce8cb29dadc065a
 geminiともに作成中
+
+サーバの立て方
+```
+vscodeにて，"index.html"を右クリック→"Open with Live Server"
+```
+
+ToDO
+- English ページの作成
