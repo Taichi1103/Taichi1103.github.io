@@ -26,7 +26,7 @@
 
 ### Contact
 研究室メール
-- t.nakano@ctl.t.u-tokyo.ac.jp
+- t.nakano[at]ctl.t.u-tokyo.ac.jp
 
 個人（ビジネス用）メール
-- 110etaichi.nakano@gmailcom
+- 110etaichi.nakano[at]gmailcom
